@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-logo: img/logo.png
+logo: img/logo.svg
 contact_entries: []
 ---
 Kontakt
